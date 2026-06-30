@@ -1,0 +1,18 @@
+filters:
+  and:
+    - file.inFolder("04_Works")
+    - file.ext == "md"
+views:
+  - type: cards
+    name: 作品
+    order:
+      - file.basename
+      - file.ctime
+      - 一句话概括
+      - 主创
+      - 主题
+      - 状态标签
+    image: note.封面
+    cardSize: 200
+    imageFit: contain
+    imageAspectRatio: 1

@@ -1,0 +1,15 @@
+.DS_Store
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.smart-env/
+smart-env/
+*.ajson
+
+# 信息管理（本地私密，不同步）
+信息管理/
+
+# local secrets (do not commit)
+.env
+.env.*
+!.env.example
+.envrc
