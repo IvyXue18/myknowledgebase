@@ -218,7 +218,7 @@ intitle：
 - 这些词在 google，bing、safari 等浏览器搜索（多语言），排名前面的内容是这样的
 - 网页和营销层面是怎么设计的：落地页、网页结构布局和 SEO 策略（在 Dia 讨论总结）
 
->[!danger]
+>[!quote]
 women zenmshuo
 
 
