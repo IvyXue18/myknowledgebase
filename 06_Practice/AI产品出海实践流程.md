@@ -54,13 +54,12 @@ https://scys.com/articleDetail/xq_topic/811844452441512
 1. 建站必须用环节会用到的一些基础设置软件：例如开发，部署托管，支付，登录，分销等……vercel，cloudflare、Gumroad，framer，wix、stripe、paypal、lemonsqueeze、buy me a cafe
 2. 还有数据很好的多功能大站：toolify， pollo.ai
 
-看关键词和着陆页，这两个类似。一个是先看搜索词和点击量，在看对应网址。一个是先看对应的网址和点击量，再用 AITDK找页面对应的搜索词。
+看**关键词和着陆页**，这两个类似。一个是先看搜索词和点击量，在看对应网址。一个是先看对应的网址和点击量，再用 AITDK找页面对应的搜索词。
 
 可以看到这些访问量大的网页都是哪些页面点击量大，进入页面看是满足了什么需求。
 这些页面一个一个点进去看，看看都是什么页面，到底是什么需求。
 
-
-
+![image.png](https://obsidian-1316461920.cos.ap-chengdu.myqcloud.com/20260630213258082.png)
 
 
 ### 看出站域名
