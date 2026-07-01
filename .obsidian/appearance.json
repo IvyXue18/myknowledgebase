@@ -2,6 +2,6 @@
   "accentColor": "#2f6fbd",
   "baseFontSize": 17,
   "enabledCssSnippets": [],
-  "theme": "moonstone",
-  "cssTheme": "Primary"
+  "theme": "system",
+  "cssTheme": "Border"
 }
