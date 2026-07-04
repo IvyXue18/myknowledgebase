@@ -472,7 +472,7 @@ Obsidian 支持 CommonMark、GitHub Flavored Markdown、LaTeX，并额外支持 
 *`!` 的意思是“嵌入显示”，不加 `!` 就只是普通链接。*
 
 [[#快速入口]] 链接到本文档其他小节
-[[AI产品出海实践流程]] 链接到其他文件
+[[AI产品出海实践 SOP]] 链接到其他文件
 [Mediaclaw](https://mediaclaw.app)
 
 ### 引用和 Callout
