@@ -63,7 +63,6 @@ https://scys.com/articleDetail/xq_topic/811844452441512
 
 ![image.png](https://obsidian-1316461920.cos.ap-chengdu.myqcloud.com/20260630213258082.png)
 
-
 ### 看出站域名
 
 ***导航站，部署或建站有子域名的站***
