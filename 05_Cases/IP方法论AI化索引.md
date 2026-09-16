@@ -12,7 +12,7 @@ updated: 2026-09-16
 # IP 方法论 AI 化｜机制卡索引
 
 > [!info] 这是索引，不是正文
-> 正文文件在 `06_Practice/IP方法论AI化/`，是软链接，实际存放在项目工作目录：
+> 正文文件在 `05_Cases/IP方法论AI化/`，是软链接，实际存放在项目工作目录：
 > `~/Documents/Codex/2026-09-09/ip-ai-persona-1-users-xueyangchun/work/机制卡/`
 > **在 Obsidian 里改＝改项目文件**，只有一份正本。飞书上的正式版另算。
 
