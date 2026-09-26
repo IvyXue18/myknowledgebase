@@ -28,6 +28,7 @@
 
 - [IP 内容辅助系统项目](obsidian://open?vault=Obsidian%20Vault&file=%E4%BA%A7%E7%A0%94%E9%83%A8%2F%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%2F%E5%A6%82%E6%9C%9F%E4%BA%A4%E8%B5%8B%2FIP%20%E5%86%85%E5%AE%B9%E8%BE%85%E5%8A%A9%E7%B3%BB%E7%BB%9F.md)
 - [雪豹日化项目](obsidian://open?vault=Obsidian%20Vault&file=%E4%BA%A7%E7%A0%94%E9%83%A8%2F%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%2F%E5%A6%82%E6%9C%9F%E4%BA%A4%E8%B5%8B%2F%E9%9B%AA%E8%B1%B9%E6%97%A5%E5%8C%96.md)
+- 合作人物：[[杨灵洁]]（IP 方法论与商务判断）。
 - [项目总览](obsidian://open?vault=Obsidian%20Vault&file=%E4%BA%A7%E7%A0%94%E9%83%A8%2F%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%2F%E6%88%91%E7%9A%84%E9%A1%B9%E7%9B%AE%E6%80%BB%E8%A7%88.md)
 
 客户需求、报价版本、排期与交付记录保留在项目工作台；这里积累可复用的方法、选择理由与实验结论。
