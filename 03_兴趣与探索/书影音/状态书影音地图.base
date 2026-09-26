@@ -1,6 +1,6 @@
 filters:
   and:
-    - file.inFolder("04_Works")
+    - file.inFolder("03_兴趣与探索/书影音") || note["作品类型"] == "书"
     - file.ext == "md"
 views:
   - type: cards
